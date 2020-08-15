@@ -24,5 +24,5 @@ The purpose of this readme is oblivious to me at the moment but here we go.</h4>
 <a href="https://linkedin.com/in/arthtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arthtyagi" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/10451970/arth-tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10451970/arth-tyagi" height="30" width="30" /></a>
 <a href="https://medium.com/@arthtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arthtyagi" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/uc3fmdvzghfx0xutbvdmbjbw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc3fmdvzghfx0xutbvdmbjbw" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UC3fMDVzGHFx0xuTBVdmbjbw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc3fmdvzghfx0xutbvdmbjbw" height="30" width="30" /></a>
 </p>
