@@ -1,5 +1,5 @@
 <h1 align="center">'Sup 🍻 I'm Arth</h1>
-<h3 align="center">I'm a 17 year old full stack developer, ML Hobbyist to put it delicately. I'm also the founder of DomeCode. A PSF Voting Member and an OSI Student Member. Into coding, blogging and music among other things. The purpose of this readme is oblivious to me at the moment but here we go.</h3>
+<h3 align="center">I'm a 17 year old full stack developer, ML Hobbyist to put it delicately. I'm also the founder of DomeCode. A Python Software Foundation Voting Member and an Open Source Initiative Student Member. Into coding, blogging and music among other things. The purpose of this readme is oblivious to me at the moment but here we go.</h3>
 <br>
 
 - 🔭 I’m currently working on [DomeCode](https://domecode.com)
