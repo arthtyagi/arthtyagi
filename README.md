@@ -10,7 +10,6 @@ The purpose of this readme is oblivious to me at the moment but here we go.</h4>
 - 📝 I regulary write articles on [https://hackernoon.com/u/arthtyagi](https://hackernoon.com/u/arthtyagi)
 
 - ⚡ Fun fact **I've got the foobar invite twice lol ( that too by email xD )**
-
 <br>
 <h3 align="center">My Technology Stack</h3>
 <hr>
