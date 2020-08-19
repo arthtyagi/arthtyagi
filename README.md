@@ -9,8 +9,6 @@ The purpose of this readme is oblivious to me at the moment but here we go.</h4>
 
 - 📝 I regulary write articles on [https://hackernoon.com/u/arthtyagi](https://hackernoon.com/u/arthtyagi)
 
-- 📫 Mail me at ( if it's actually worth it ) **founder@domecode.com**
-
 - ⚡ Fun fact **I've got the foobar invite twice lol ( that too by email xD )**
 
 <br>
