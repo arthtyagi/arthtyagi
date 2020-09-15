@@ -3,7 +3,7 @@
 The purpose of this readme is oblivious to me at the moment but here we go.</h4>
 <br>
 
-Most of what you'd want to know about me is at **[my personal webiste](https://arthtyagi.me/).**
+Most of what you'd want to know about me is at **[my personal website](https://arthtyagi.me/).**
 
 - 🔭 I’m currently working on [DomeCode](https://domecode.com)
 
