@@ -3,6 +3,8 @@
 The purpose of this readme is oblivious to me at the moment but here we go.</h4>
 <br>
 
+Most of what you'd want to know about me is at **[my personal webiste](https://arthtyagi.me/).**
+
 - 🔭 I’m currently working on [DomeCode](https://domecode.com)
 
 - 💂 Welcoming contributors and sponsors for [DomeCode](https://github.com/the-domecode)
