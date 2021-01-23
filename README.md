@@ -3,15 +3,9 @@
 The purpose of this readme is oblivious to me at the moment but here we go.</h4>
 <br>
 
-Most of what you'd want to know about me is at **[my personal website](https://arthtyagi.me/).**
+- I code and do business shit, founder of [DomeCode](https://domecode.com), working on my next startup right now.
+- I'm a hobbyist music producer too :) Check out my latest shit on [SoundCloud](https://soundcloud.com/arth-tyagi-892438955) or [YouTube](https://www.youtube.com/watch?v=3VJmtVYwhk4).
 
-- 🔭 I’m currently working on [DomeCode](https://domecode.com)
-
-- 💂 Welcoming contributors and sponsors for [DomeCode](https://github.com/the-domecode)
-
-- 📝 I write articles on [https://hackernoon.com/u/arthtyagi](https://hackernoon.com/u/arthtyagi)
-
-- ⚡ Fun fact **I've got the foobar invite twice lol ( that too by email xD )**
 <br>
 <hr>
 <p align="center">
