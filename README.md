@@ -3,6 +3,7 @@
 The purpose of this readme is oblivious to me at the moment but here we go.</h4>
 <br>
 
+- Going to study CS+Economics @UAlberta this Fall, unless, of course, I get serious funding for ConnectDome, in which case, we'll see.
 - I code and do business shit, founder of [DomeCode](https://domecode.com) and  <a href="https://connectdome.com">ConnectDome</a>.
 - I'm a hobbyist music producer too :) Check out my latest shit on [SoundCloud](https://soundcloud.com/arth-tyagi-892438955) or [YouTube](https://www.youtube.com/watch?v=3VJmtVYwhk4).
 
