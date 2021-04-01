@@ -1,11 +1,11 @@
 <h1 align="center">'Sup 🍻 I'm Arth</h1>
-<h4 align="center">I'm the founder of <a href="https://domecode.com">DomeCode</a> and  <a href="https://connectdome.com">ConnectDome</a>. A <a href="https://www.python.org/psf/">Python Software Foundation</a> Voting Member and an <a href="https://opensource.org/">Open Source Initiative</a> Student Member. Into coding, blogging and music among other things.
-The purpose of this readme is oblivious to me at the moment but here we go.</h4>
+<h4 align="center">I'm the Founder of <a href="https://domecode.com">DomeCode</a> and  co-founder of <a href="https://connectdome.com">ConnectDome</a>.</h4>
+<h5 align="center">I like to come up with cool ideas and then I build the ones that I can at the moment. Simple enough? Try that. </h5>
 <br>
 
-- Incoming undergrad CS+Economics [@UAlberta](https://github.com/ualberta) Fall '21 ( Class of 2025 ), unless, of course, I get serious funding for ConnectDome, in which case, we'll see.
-- I code and do business shit, founder of [DomeCode](https://domecode.com) and  <a href="https://connectdome.com">ConnectDome</a>.
-- I'm a hobbyist music producer too :) Check out my latest shit on [SoundCloud](https://soundcloud.com/arth-tyagi-892438955) or [YouTube](https://www.youtube.com/watch?v=3VJmtVYwhk4).
+- Incoming undergrad CS+Economics [@UAlberta](https://github.com/ualberta) Fall '21 ( Class of 2025 ), unless, of course, I get serious funding for ConnectDome. In that case, we'll see.
+- I code and do business stuff, founder of [DomeCode](https://domecode.com) and  <a href="https://connectdome.com">ConnectDome</a>, didn't I already mention that tho?
+- I'm a hobbyist music producer too :) Check out my latest on [SoundCloud](https://soundcloud.com/arth-tyagi-892438955)
 - My website and blog that haven't been updated for a while now - https://arthtyagi.me/ and https://blog.arthtyagi.me/
 
 <br>
