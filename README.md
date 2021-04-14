@@ -1,5 +1,5 @@
-<h1 align="center">I'm Arth. RAAAAAAAAAAAAAHH</h1>
-<h4 align="center">I'm the Founder of <a href="https://domecode.com">DomeCode</a> and  co-founder of <a href="https://connectdome.com">ConnectDome</a>.</h4>
+<h1 align="center">sup</h1>
+<h4 align="center">I'm the co-founder of <a href="https://connectdome.com">ConnectDome</a> and the founder of <a href="https://domecode.com">DomeCode</a> and  .</h4>
 <h5 align="center">I like to come up with cool ideas and then I build the ones that I can at the moment. Simple enough? Try that. </h5>
 <br>
 
